@@ -1,3 +1,9 @@
+/* ==UserStyle==
+@name           Vacban Theme
+@namespace      PhoenixAceVFX
+@author         PhoenixAceVFX
+@description    My custom theme for vacban.wtf
+==/UserStyle== */
 @-moz-document domain("vacban.wtf") {
 div .p-body {
     background-image: url("https://cdn.discordapp.com/attachments/831321249011597363/841371639093657651/flexuh-vr-catsuitshowcase2.png");
